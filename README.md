@@ -25,3 +25,21 @@ When outputting to the API, the card structure will be
 },
 ```
 When an ID is invalid, it will replace Username, Created, and Avatar marked as "Unknown Account"
+
+### Tagging
+These are some standardized tags you can use to describe a user and their actions. Other tags are also accepted.
+```
+Red:
+Malware - User has history of spreading malware, such as RATs, loggers, or other malicious software types.
+Fraud - User has history of stealing accounts, money, or other products.
+Exitscam - User has been involved in, or contributed to, an exitscam
+
+Orange:
+Paster - When someone is a verified skid or owns an executor using someone elses API/Injector/Source/Backend.
+Althopping - When someone deliberately changes their identity or switches accounts to evade public scrutiny.
+
+Purple:
+Inactive - If the user account specified is inactive.
+Owner - If the user has or is an owner of a service or product.
+Staff - If the user has or is a staff member of a service or product.
+```
