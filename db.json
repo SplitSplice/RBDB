@@ -1,5 +1,5 @@
 {
-  "users":[
+  "users": [
     {
       "nickname": "Astroghost",
       "id": "1208128286471880807",
@@ -9,7 +9,11 @@
         "Owner"
       ],
       "note": "Ex-Co-Owner of Ronix, nuked Pulsery.",
-      "refs": ["https://v3rm.net/threads/cw-astroghost-aka-nuker-predator-scammer-ratter.21469/", "https://v3rm.net/threads/cw-about-astroghost-getting-paid-by-setinstance-then-nuked-nexora.22007/", "https://www.youtube.com/watch?v=zUShmzrj9p8"]
+      "refs": [
+        "https://v3rm.net/threads/cw-astroghost-aka-nuker-predator-scammer-ratter.21469/",
+        "https://v3rm.net/threads/cw-about-astroghost-getting-paid-by-setinstance-then-nuked-nexora.22007/",
+        "https://www.youtube.com/watch?v=zUShmzrj9p8"
+      ]
     },
     {
       "nickname": "Ronver/Darklight/Nexity",
@@ -19,7 +23,12 @@
         "Owner"
       ],
       "note": "Owner of Ronix Executor. Goes under many different Aliases. Has been in several controversies.",
-      "refs": ["https://v3rm.net/threads/cw-ronver-nexity-ronix-danner-darklight.20989/", "https://v3rm.net/threads/cw-blah-blah-nexity-darknight-whatever.15084/", "https://v3rm.net/threads/cw-nexity-scammer-manipulator.12156/", "https://www.youtube.com/watch?v=zUShmzrj9p8"]
+      "refs": [
+        "https://v3rm.net/threads/cw-ronver-nexity-ronix-danner-darklight.20989/",
+        "https://v3rm.net/threads/cw-blah-blah-nexity-darknight-whatever.15084/",
+        "https://v3rm.net/threads/cw-nexity-scammer-manipulator.12156/",
+        "https://www.youtube.com/watch?v=zUShmzrj9p8"
+      ]
     },
     {
       "nickname": "ValeDreamer",
@@ -32,7 +41,12 @@
         "Alt-Hopping"
       ],
       "note": "Uses many different aliases and accounts, like Nevy and Consist combined, usually included in every scandal and CW.",
-      "refs": ["https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/", "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/", "https://v3rm.net/threads/valedreamer-is-back-and-its-funnier-than-ever.12545/", "https://www.reddit.com/r/robloxhackers/comments/1doefsd/valedreamer_has_ratted_over_500_people_with_proof/"]
+      "refs": [
+        "https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/",
+        "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/",
+        "https://v3rm.net/threads/valedreamer-is-back-and-its-funnier-than-ever.12545/",
+        "https://www.reddit.com/r/robloxhackers/comments/1doefsd/valedreamer_has_ratted_over_500_people_with_proof/"
+      ]
     },
     {
       "nickname": "Consist",
@@ -45,7 +59,10 @@
         "Alt-Hopping"
       ],
       "note": "Uses many different aliases and accounts, basically Nevy and ValeDreamer.",
-      "refs": ["https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/", "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/"]
+      "refs": [
+        "https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/",
+        "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/"
+      ]
     },
     {
       "nickname": "Nevy",
@@ -58,7 +75,10 @@
         "Alt-Hopping"
       ],
       "note": "Uses many different aliases and accounts, basically ValeDreamer and Consist.",
-      "refs": ["https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/", "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/"]
+      "refs": [
+        "https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/",
+        "https://v3rm.net/threads/valedreamer-oxycontin-eulen.8595/"
+      ]
     },
     {
       "nickname": "Clarity",
@@ -72,22 +92,36 @@
         "Owner"
       ],
       "note": "Ex-Co-Owner of Luna, Ex-Co-Founder of Paradox, collaborates with other people in this blacklist. Tried to rat Luna and Atlantis.",
-      "refs": ["https://v3rm.net/threads/2-in-1-cw-element-5ive-softworks-orange-luna-paradox-clarity.15041/","https://v3rm.net/threads/yeah-dont-buy-paradox-hosting-cw.15927/","https://v3rm.net/threads/cw-vexyflows-crossflows-clarityflows-clawcore-atlantis-rat.17883/"]
+      "refs": [
+        "https://v3rm.net/threads/2-in-1-cw-element-5ive-softworks-orange-luna-paradox-clarity.15041/",
+        "https://v3rm.net/threads/yeah-dont-buy-paradox-hosting-cw.15927/",
+        "https://v3rm.net/threads/cw-vexyflows-crossflows-clarityflows-clawcore-atlantis-rat.17883/"
+      ]
     },
     {
       "nickname": "Etheriut",
       "id": "UNKNOWN",
-      "tags": ["Fraud","Owner"],
+      "tags": [
+        "Fraud",
+        "Owner"
+      ],
       "note": "Owner of AWP, left the executor detected and broken.",
-      "refs": ["https://v3rm.net/threads/why-use-awp.21080/"]
+      "refs": [
+        "https://v3rm.net/threads/why-use-awp.21080/"
+      ]
     },
     {
       "nickname": "Merkuri",
       "id": "0",
-      "tags": ["Paster","Alt-Hopping","Staff"],
+      "tags": [
+        "Paster",
+        "Alt-Hopping",
+        "Staff"
+      ],
       "note": "Ex-Staff Member at AWP. Exposed for using AI to answer questions about C++ and Hyperion.",
-      "refs": ["https://v3rm.net/threads/awp-where-is-merkuri.22061/"]
-
+      "refs": [
+        "https://v3rm.net/threads/awp-where-is-merkuri.22061/"
+      ]
     },
     {
       "nickname": "Glosary",
@@ -107,7 +141,10 @@
         "Alt-Hopping"
       ],
       "note": "Pedophile, drug addict, ratter.",
-      "refs": ["https://v3rm.net/threads/hexxr-a-serious-warning-to-the-community.22515/","https://v3rm.net/threads/cw-hexxr-hexpatch-ketxne.22285/"]
+      "refs": [
+        "https://v3rm.net/threads/hexxr-a-serious-warning-to-the-community.22515/",
+        "https://v3rm.net/threads/cw-hexxr-hexpatch-ketxne.22285/"
+      ]
     },
     {
       "nickname": "Kjs14/bxp0",
@@ -118,7 +155,9 @@
         "Owner"
       ],
       "note": "General skid.",
-      "refs": ["https://v3rm.net/threads/cw-_bxp0-kjs_14-skiddyskiddyskid.22276/"]
+      "refs": [
+        "https://v3rm.net/threads/cw-_bxp0-kjs_14-skiddyskiddyskid.22276/"
+      ]
     },
     {
       "nickname": "Darkness",
@@ -149,7 +188,9 @@
         "Owner"
       ],
       "note": "Previous owner of Canda, Connection to Macsploit. Tends to spread malware through projects he is involved in.",
-      "refs": ["https://v3rm.net/threads/cw-warning-about-frame-aka-ycqm-%E2%80%93-scammer-racist-and-distributor-of-malware.22707/#post-179135"]
+      "refs": [
+        "https://v3rm.net/threads/cw-warning-about-frame-aka-ycqm-%E2%80%93-scammer-racist-and-distributor-of-malware.22707/#post-179135"
+      ]
     },
     {
       "nickname": "Orange/Mythic",
@@ -160,7 +201,11 @@
         "Inactive"
       ],
       "note": "Owner of Element before he deleted it. Just a general asshole.",
-      "refs": ["https://v3rm.net/threads/cw-orange-element-the-safety-of-the-roblox-exploiting-com.14531/", "https://v3rm.net/threads/2-in-1-cw-element-5ive-softworks-orange-luna-paradox-clarity.15041/", "https://v3rm.net/threads/cw-element-orange-part-2-daily-episodes-of-element-drama.15611/"]
+      "refs": [
+        "https://v3rm.net/threads/cw-orange-element-the-safety-of-the-roblox-exploiting-com.14531/",
+        "https://v3rm.net/threads/2-in-1-cw-element-5ive-softworks-orange-luna-paradox-clarity.15041/",
+        "https://v3rm.net/threads/cw-element-orange-part-2-daily-episodes-of-element-drama.15611/"
+      ]
     },
     {
       "nickname": "kq",
@@ -170,7 +215,9 @@
         "Fraud"
       ],
       "note": "Owner of Zorara, now known as Drift. Has scammed in the past. Zorara is based off Xeno, and they discretely hid that from their community.",
-      "refs": ["https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/"]
+      "refs": [
+        "https://v3rm.net/threads/community-warning-argon-nevy-valedreamer-kq.19759/"
+      ]
     },
     {
       "nickname": "crossflows",
@@ -184,7 +231,9 @@
         "Inactive"
       ],
       "note": "Was heavily involved in the whole Atlantis/Argon situation, hasn't been seen since.",
-      "refs": ["https://v3rm.net/threads/cw-vexyflows-crossflows-clarityflows-clawcore-atlantis-rat.17883/"]
+      "refs": [
+        "https://v3rm.net/threads/cw-vexyflows-crossflows-clarityflows-clawcore-atlantis-rat.17883/"
+      ]
     },
     {
       "nickname": "Lxzp/Yoru",
@@ -197,7 +246,11 @@
         "Owner"
       ],
       "note": "Former owner of Atlantis. Exit-scammed in the past as Yoru before coming back as Lxzp Involved in the raiding and stealing of Luna's server, as well as distributing an infected injector.",
-      "refs": ["https://cheat.today/#:~:text=3-,Atlantis,-Unknown","https://v3rm.net/threads/be-aware-lxzp.17376/","https://v3rm.net/threads/cw-lxzp-yoru-savage-dtbu-skidding-ratting-raiding.17437/"]
+      "refs": [
+        "https://cheat.today/#:~:text=3-,Atlantis,-Unknown",
+        "https://v3rm.net/threads/be-aware-lxzp.17376/",
+        "https://v3rm.net/threads/cw-lxzp-yoru-savage-dtbu-skidding-ratting-raiding.17437/"
+      ]
     },
     {
       "nickname": "Sakpot",
@@ -210,7 +263,10 @@
         "Owner"
       ],
       "note": "He's basically be involved in any malicious exploit or exitscam known to man while also monetising them all. He found the infinite money glitch.",
-      "refs": ["https://urbandictionary.com/define.php?term=sakpot","https://youtube.com/watch?v=TGifTyjE-rg"]
+      "refs": [
+        "https://urbandictionary.com/define.php?term=sakpot",
+        "https://youtube.com/watch?v=TGifTyjE-rg"
+      ]
     },
     {
       "nickname": "Anze",
@@ -224,11 +280,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
