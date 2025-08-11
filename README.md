@@ -1,4 +1,27 @@
 # RBDB
+### API
+
+**`tags`** – Filter by all specified tags (exact, case-insensitive)  
+`?tags=Tag1,Tag2` → `?tags=Malware,Fraud,Asshole`
+
+**`username`** – Partial match on `username`  
+`?username=text` → `?username=astro`
+
+**`userid`** – Exact Discord user ID  
+`?userid=id` → `?userid=1208128286471880807`
+
+**`nickname`** – Partial match on `nickname`  
+`?nickname=text` → `?nickname=Vale`
+
+**`sort`** – Sorting options:  
+- `sort=tags` → Most tags first  
+- `sort=tag:TagName` → Most occurrences of that tag first  
+Examples: `?sort=tags`, `?sort=tag:Fraud`
+
+**Combine parameters:**  
+`?tags=Malware,Fraud&username=astro&sort=tags`
+
+
 ### Formatting
 The structure of a card is
 ```json
