@@ -60,6 +60,7 @@ Exitscam - User has been involved in, or contributed to, an exitscam
 Orange:
 Paster - When someone is a verified skid or owns an executor using someone elses API/Injector/Source/Backend.
 Althopping - When someone deliberately changes their identity or switches accounts to evade public scrutiny.
+// any other tag you put will be Orange.
 
 Purple:
 Inactive - If the user account specified is inactive.
