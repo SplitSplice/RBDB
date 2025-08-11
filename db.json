@@ -178,21 +178,6 @@
       "note": "Owner of Fluxteam, now renamed Subz."
     },
     {
-      "nickname": "Frame",
-      "id": "743187499148640286",
-      "tags": [
-        "Paster",
-        "Malware",
-        "Exitscam",
-        "Alt-Hopping",
-        "Owner"
-      ],
-      "note": "Previous owner of Canda, Connection to Macsploit. Tends to spread malware through projects he is involved in.",
-      "refs": [
-        "https://v3rm.net/threads/cw-warning-about-frame-aka-ycqm-%E2%80%93-scammer-racist-and-distributor-of-malware.22707/#post-179135"
-      ]
-    },
-    {
       "nickname": "Orange/Mythic",
       "id": "1264040231213072394",
       "tags": [
@@ -279,6 +264,7 @@
     }
   ]
 }
+
 
 
 
