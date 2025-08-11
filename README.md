@@ -1,27 +1,36 @@
 # RBDB
-### API
+## API Usage
 
 **`tags`** – Filter by all specified tags (exact, case-insensitive)  
-`?tags=Tag1,Tag2` → `?tags=Malware,Fraud,Asshole`
+`?tags=Tag1,Tag2` - `?tags=Malware,Fraud,Asshole`
 
 **`username`** – Partial match on `username`  
-`?username=text` → `?username=astro`
+`?username=text` - `?username=astro`
 
 **`userid`** – Exact Discord user ID  
-`?userid=id` → `?userid=1208128286471880807`
+`?userid=id` - `?userid=1208128286471880807`
 
 **`nickname`** – Partial match on `nickname`  
-`?nickname=text` → `?nickname=Vale`
+`?nickname=text` - `?nickname=Vale`
+
+**`nickname`** – Partial match on `nickname`  
+`?keywords=text` - `?nickname=Vale`
 
 **`sort`** – Sorting options:  
-- `sort=tags` → Most tags first  
-- `sort=tag:TagName` → Most occurrences of that tag first  
+- `sort=tags` - Most tags first  
+- `sort=tag:TagName` - Most occurrences of that tag first  
 Examples: `?sort=tags`, `?sort=tag:Fraud`
 
-**Combine parameters:**  
+**You Can Combine parameters!!!**  
 `?tags=Malware,Fraud&username=astro&sort=tags`
 
+## Contributing
+Everyone is allowed and permitted to create a Pull-Request to add, remove, or edit content.
+When adding or editing, make sure to follow these guidelines below.
 
+### Detailing
+When writing a note on someone, dont overload it with info, just give general info about what they have done.
+Speak in decent grammar and make sure to add references. It's fine to NOT have references, but at least have something you can point to to make your note and tags valid.
 ### Formatting
 The structure of a card is
 ```json
@@ -60,6 +69,7 @@ Exitscam - User has been involved in, or contributed to, an exitscam
 Orange:
 Paster - When someone is a verified skid or owns an executor using someone elses API/Injector/Source/Backend.
 Althopping - When someone deliberately changes their identity or switches accounts to evade public scrutiny.
+Asshole - Use sparingly, when someone is just a general asshole.
 // any other tag you put will be Orange.
 
 Purple:
