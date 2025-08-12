@@ -46,8 +46,8 @@ Tags, Notes and References are optional and don't have to be included but it's g
 When outputting to the API, the card structure will be
 ```json
 {
-  "nickname": "Astroghost",
-  "id": "1208128286471880807",
+  "nickname": "",
+  "id": "",
   "tags": [],
   "note": "",
   "refs": [],
