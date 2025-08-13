@@ -19,7 +19,7 @@
 **`nickname`** – Partial match on `nickname`  
 `?nickname=text` - `?nickname=Vale`
 
-**`nickname`** – Partial match on `nickname`  
+**`keywords`** – Partial match on `notes`  
 `?keywords=text` - `?nickname=Vale`
 
 **`sort`** – Sorting options:  
