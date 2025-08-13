@@ -1,4 +1,10 @@
 # RBDB
+> [!CAUTION]
+> When updating **db.json**, be EXTREMELY careful as improper JSON formatting will cause the website to fail to load the entries.
+
+> [!IMPORTANT]  
+> Due to GitHub cache lag, updates will not appear immediately and may take anywhere between 2-5 minutes to show up on RBDB.
+
 ## API Usage
 
 **`tags`** – Filter by all specified tags (exact, case-insensitive)  
