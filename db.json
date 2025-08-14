@@ -1,5 +1,5 @@
 {
-  "news": "4 new users involved in the ongoing \"Moon Softworks\" scandal.",
+  "news": "<a href='/?keywords=Moon+Software'>4 new users involved in the ongoing \"Moon Softworks\" scandal.</a>",
   
   "users": [
     {
@@ -401,6 +401,7 @@
     }
   ]
 }
+
 
 
 
