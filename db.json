@@ -230,9 +230,12 @@
       "nickname": "Anze",
       "id": "979015770853998592",
       "tags": [
-        "Owner"
+        "Owner",
+        "Fraud",
+        "Malware",
+        "Exitscam"
       ],
-      "note": "Ex-owner of Wind, owner of Atlantis, left exploiting to make scripts to ban cheaters, then lied about coming back. Also a serial exit-scammer.",
+      "note": "Ex-owner of Wind, owner of Atlantis, involved in Moon Softworks. Left exploiting to make scripts to collect and sell usernames and IDs to game admins, then lied about coming back. Also a serial exit-scammer.",
       "refs": [
         "https://v3rm.net/threads/shitty-cw-anze-making-malicious-scripts.22984/"
       ]
@@ -355,9 +358,48 @@
         "Malware"
       ],
       "note": "Owner of DarkScripts, promoting malicious scripts to scam exploiters. Buying ScriptBlox Accounts To Promote Stealers."
+    },
+    
+    {
+      "nickname": "Pcall",
+      "id": "913883981936738326",
+      "tags": [
+        "Fraud",
+        "Malware"
+      ],
+      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+    },
+    {
+      "nickname": "89.187",
+      "id": "1152236865378852985",
+      "tags": [
+        "Fraud",
+        "Malware"
+      ],
+      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+    },
+    {
+      "nickname": "Linqre",
+      "id": "1404439781831610398",
+      "tags": [
+        "Fraud",
+        "Malware",
+        "Alt-Hopping"
+      ],
+      "note": "Many alternate accounts. Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+    },
+    {
+      "nickname": "Getswift",
+      "id": "1374276661738209331",
+      "tags": [
+        "Fraud",
+        "Malware"
+      ],
+      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
     }
   ]
 }
+
 
 
 
