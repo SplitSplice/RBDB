@@ -1,5 +1,5 @@
 {
-  "news": "<a href='/?keywords=Moon+Software'>4 new users involved in the ongoing \"Moon Softworks\" scandal.</a>",
+  "news": "<a href='/?keywords=Moon+Software'>5 new users involved in the \"Moon Softworks\" scandal.</a>",
   
   "users": [
     {
@@ -237,7 +237,7 @@
         "Malware",
         "Exitscam"
       ],
-      "note": "Ex-owner of Wind, owner of Atlantis, involved in Moon Softworks. Left exploiting to make scripts to collect and sell usernames and IDs to game admins, then lied about coming back. Also a serial exit-scammer.",
+      "note": "Ex-owner of Wind, owner of Atlantis, owner of Moon Softworks. Left exploiting to make scripts to collect and sell usernames and IDs to game admins and getting accounts remotely terminated. Also a serial exit-scammer.",
       "refs": [
         "https://v3rm.net/threads/shitty-cw-anze-making-malicious-scripts.22984/"
       ]
@@ -361,46 +361,75 @@
       ],
       "note": "Owner of DarkScripts, promoting malicious scripts to scam exploiters. Buying ScriptBlox Accounts To Promote Stealers."
     },
-    
     {
-      "nickname": "Pcall",
+      "nickname": "Pcall/Obama",
       "id": "913883981936738326",
       "tags": [
         "Fraud",
-        "Malware"
+        "Malware",
+        "Staff"
       ],
-      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     },
     {
       "nickname": "89.187",
       "id": "1152236865378852985",
       "tags": [
         "Fraud",
-        "Malware"
+        "Malware",
+        "Staff"
       ],
-      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     },
     {
       "nickname": "Linqre/Odessey/Stan",
-      "id": "1404439781831610398",
+      "id": "1387405506917961769",
+      "alts": [
+        {"id": "1394581781604208672"},
+        {"id": "1404439781831610398"}
+      ],
       "tags": [
         "Fraud",
         "Malware",
-        "Alt-Hopping"
+        "Alt-Hopping",
+        "Staff"
       ],
-      "note": "Many alternate accounts. Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+      "note": "Operates multiple other accounts. Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     },
     {
       "nickname": "Getswift",
       "id": "1374276661738209331",
       "tags": [
         "Fraud",
+        "Malware",
+        "Staff"
+      ],
+      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
+    },
+    {
+      "nickname": "Jiro",
+      "id": "1369377057569771521",
+      "tags": [
+        "Fraud",
         "Malware"
       ],
-      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins."
+      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated. Removed from staff list."
+    },
+    {
+      "nickname": "Sayfalse/ChickenHunter6000",
+      "id": "1369377057569771521",
+      "tags": [
+        "Fraud",
+        "Malware",
+        "Paster",
+        "Asshole"
+      ],
+      "note": "Racist skid ratter.",
+      "refs": ["https://www.reddit.com/r/ROBLOXExploiting/comments/1m4q0bn/cw_on_sayfalsechickenhunter6000/"]
     }
   ]
 }
+
 
 
 
