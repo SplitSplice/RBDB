@@ -36,7 +36,7 @@ When adding or editing, make sure to follow these guidelines below.
 
 ### Detailing
 When writing a note on someone, dont overload it with info, just give general info about what they have done.
-Speak in decent grammar and make sure to add references. It's fine to NOT have references, but at least have something you can point to to make your note and tags valid.
+Speak in decent grammar and make sure to add references. It's fine to NOT have mainstream references, but at least have something you can point to to make your note and tags valid.
 ### Formatting
 The structure of a card is
 ```json
