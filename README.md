@@ -20,7 +20,7 @@
 `?nickname=text` - `?nickname=Vale`
 
 **`keywords`** – Partial match on `notes`  
-`?keywords=text` - `?nickname=Vale`
+`?keywords=text` - `?keywrods=Vale`
 
 **`sort`** – Sorting options:  
 - `sort=tags` - Most tags first  
