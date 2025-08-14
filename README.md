@@ -35,7 +35,7 @@ Everyone is allowed and permitted to create a Pull-Request to add, remove, or ed
 When adding or editing, make sure to follow these guidelines below.
 
 ### Detailing
-When writing a note on someone, dont overload it with info, just give general info about what they have done.
+When writing a note on someone, don't overload it with info, just give general info about why they are here.
 Speak in decent grammar and make sure to add references. It's fine to NOT have mainstream references, but at least have something you can point to to make your note and tags valid.
 ### Formatting
 The structure of a card is
@@ -50,6 +50,8 @@ The structure of a card is
 ```
 Tags, Notes and References are optional and don't have to be included but it's good practice to include them.
 When outputting to the API, the card structure will be
+> [!IMPORTANT]
+> DO NOT USE THESE IN DB.JSON. Username, Avatar, and Creation Date data is grabbed automatically when using the API.
 ```json
 {
   "nickname": "",
