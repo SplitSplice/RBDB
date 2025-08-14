@@ -27,7 +27,7 @@
 - `sort=tag:TagName` - Most occurrences of that tag first  
 Examples: `?sort=tags`, `?sort=tag:Fraud`
 
-**You Can Combine parameters!!!**  
+**You can combine parameters!!!**  
 `?tags=Malware,Fraud&username=astro&sort=tags`
 
 ## Contributing
