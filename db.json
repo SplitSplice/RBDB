@@ -369,54 +369,20 @@
         "Malware",
         "Staff"
       ],
-      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
-    },
-    {
-      "nickname": "89.187",
-      "id": "1152236865378852985",
-      "tags": [
-        "Fraud",
-        "Malware",
-        "Staff"
-      ],
-      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
+      "note": "Owner of Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     },
     {
       "nickname": "Linqre/Odessey/Stan",
       "id": "1387405506917961769",
-      "alts": [
-        {"id": "1394581781604208672"},
-        {"id": "1404439781831610398"}
-      ],
       "tags": [
         "Fraud",
         "Malware",
         "Alt-Hopping",
-        "Staff"
       ],
-      "note": "Operates multiple other accounts. Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
+      "note": "Operates multiple other accounts. Ex-Staff in Moon Softworks, sold usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     },
     {
-      "nickname": "Getswift",
-      "id": "1374276661738209331",
-      "tags": [
-        "Fraud",
-        "Malware",
-        "Staff"
-      ],
-      "note": "Staff in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
-    },
-    {
-      "nickname": "Jiro",
-      "id": "1369377057569771521",
-      "tags": [
-        "Fraud",
-        "Malware"
-      ],
-      "note": "Involved in Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated. Removed from staff list."
-    },
-    {
-      "nickname": "Sayfalse/ChickenHunter6000",
+      "nickname": "Sayfalse",
       "id": "1369377057569771521",
       "tags": [
         "Fraud",
@@ -434,6 +400,16 @@
         "Fraud"
       ],
       "note": "Ex-mod of r/ROBLOXExploiting. Scammed a member out of $10 and left."
+    },
+    {
+      "nickname": "abdulasd",
+      "id": "746750931906986075",
+      "tags": [
+        "Fraud",
+        "Malware",
+        "Fraud"
+      ],
+      "note": "Staff of Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated."
     }
   ]
 }
