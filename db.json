@@ -1,5 +1,5 @@
 {
-  "news": "API is currently in fallback mode, Usernames and Avatars will not be loaded.",
+  "news": "API is back online.",
   
   "users": [
     {
@@ -412,4 +412,5 @@
     }
   ]
 }
+
 
