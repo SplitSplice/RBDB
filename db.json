@@ -1,5 +1,5 @@
 {
-  "news": "<a href='/?keywords=Moon+Software'>3 users <span style=\"color:red;\">removed</span> previously involved in the \"Moon Softworks\" scandal.</a>",
+  "news": "API is currently in fallback mode, Usernames and Avatars will not be loaded.",
   
   "users": [
     {
@@ -412,3 +412,4 @@
     }
   ]
 }
+
