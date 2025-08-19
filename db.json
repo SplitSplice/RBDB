@@ -1,5 +1,5 @@
 {
-  "news": "API is back online.",
+  "news": "<a href='/?nickname=Ronver'><span style='color: #ff6e6e;'>Ronver's entry has been changed with new info.</span><a>",
   
   "users": [
     {
@@ -418,6 +418,7 @@
     }
   ]
 }
+
 
 
 
