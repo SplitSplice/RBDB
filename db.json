@@ -295,6 +295,21 @@
       "note": "Owner of Pulsar Executor, a pasted executor, nuked Revelix Executor."
     },
     {
+      "nickname": "Vex",
+      "id": "1289992519991431294",
+      "tags": [
+        "Owner",
+        "Paster",
+        "Alt-Hopping",
+        "Fraud"
+      ],
+      "note": "D1 Skidder. Executor built off of the YubX leaked base uses Arctic & Velocity V2 functions, external Skidded and built from Centrum V1.",
+      "refs": [
+        "https://docs.google.com/document/d/1gBZlCG8S0HVTXg9v3T8eWuCgWR37BHGGHCXlMo9kc_c/edit?tab=t.0",
+        "https://vexcheat.cc/"
+      ]
+    },
+    {
       "nickname": "leninja",
       "id": "773355502243020850",
       "tags": [
@@ -419,6 +434,7 @@
     }
   ]
 }
+
 
 
 
