@@ -148,11 +148,10 @@
       ]
     },
     {
-      "nickname": "Kjs/bxp0",
+      "nickname": "Kjs",
       "id": "1354916670757535866",
       "tags": [
         "Paster",
-        "Alt-Hopping",
         "Owner"
       ],
       "note": "General skid.",
@@ -284,16 +283,34 @@
       ],
       "note": "Defrauds children on Roblox using fake robux scams."
     },
+
     {
-      "nickname": "Zxc/Pulsar",
-      "id": "893729892951289858",
-      "tags": [
-        "Owner",
-        "Paster",
-        "Alt-Hopping"
-      ],
-      "note": "Owner of Pulsar Executor, a pasted executor, nuked Revelix Executor."
-    },
+  "nickname": " Vex",
+  "id": "1289992519991431294",
+  "tags": [
+    "Owner",
+    "Paster",
+    "Alt-Hopping",
+    "Fraud"
+  ],
+  "note": "D1 Skidder. Executor built off of the YubX leaked base uses Arctic & Velocity V2 functions, external Skidded and built from Centrum V1.",
+  "refs": [
+    "https://docs.google.com/document/d/1gBZlCG8S0HVTXg9v3T8eWuCgWR37BHGGHCXlMo9kc_c/edit?tab=t.0",
+    "https://vexcheat.cc/"
+  ]
+},
+
+ {
+  "nickname": "Zxc/Pulsar",
+  "id": "893729892951289858",
+  "tags": [
+    "Owner",
+    "Paster",
+    "Alt-Hopping"
+  ],
+  "note": "Owner of Pulsar Executor. Used YubX API, later skidded ByteForge, nuked Revelix. Always switching accounts."
+},
+
     {
       "nickname": "leninja",
       "id": "773355502243020850",
@@ -419,6 +436,7 @@
     }
   ]
 }
+
 
 
 
