@@ -1,6 +1,5 @@
 {
   "news": "<a href='/?nickname=Ronver'><span style='color: #ff6e6e;'>Ronver's entry has been changed with new info.</span><a>",
-  
   "users": [
     {
       "nickname": "Astroghost",
@@ -413,7 +412,9 @@
         "Asshole"
       ],
       "note": "Racist skid ratter.",
-      "refs": ["https://www.reddit.com/r/ROBLOXExploiting/comments/1m4q0bn/cw_on_sayfalsechickenhunter6000/"]
+      "refs": [
+        "https://www.reddit.com/r/ROBLOXExploiting/comments/1m4q0bn/cw_on_sayfalsechickenhunter6000/"
+      ]
     },
     {
       "nickname": "Blast Fs",
@@ -431,16 +432,15 @@
         "Fraud"
       ],
       "note": "Staff of Moon Softworks, selling usernames and IDs of exploiters to game admins. Developing scripts to have exploiters terminated. Also scammed someone out of $10."
+    },
+    {
+      "nickname": "Serotonin",
+      "id": "124642095477555201",
+      "tags": [
+        "Fraud",
+        "Owner"
+      ],
+      "note": "Owner of Synkris Softworks. Scammed a member out of $20 usd after agreeing to pay people who advertised his service."
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
