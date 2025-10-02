@@ -1,5 +1,5 @@
 {
-  "news": "<a><span style='color: #F3FF6E;'>@e can't contact Discord's API, so all discord usernames are now @Unknown.</span><a>",
+  "news": "<a><span style='color: #F3FF6E;'>We can't contact Discord's API, so all discord usernames are now @Unknown.</span><a>",
   "users": [
     {
       "nickname": "Astroghost",
@@ -167,7 +167,7 @@
         "Owner",
         "Inactive"
       ],
-      "note": "Owner of Element before he deleted it. Just a general asshole.",
+      "note": "Owner of Element before he deleted it, also involved in a bit of drama.",
       "refs": [
         "https://v3rm.net/threads/cw-orange-element-the-safety-of-the-roblox-exploiting-com.14531/",
         "https://v3rm.net/threads/2-in-1-cw-element-5ive-softworks-orange-luna-paradox-clarity.15041/",
